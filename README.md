@@ -1,4 +1,5 @@
 --Conditions--
+
 msgs.bat - Messenger
 repair.bat - utility that should help you to fix some errors
 Messenger works on LAN connection.
